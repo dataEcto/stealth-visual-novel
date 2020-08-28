@@ -1,0 +1,3433 @@
+fileFormatVersion: 2
+guid: 44ec6a4960319424d9147b1fec7721d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3474827124137209833
+    second: MGGB - Solid Snake Sprites_0
+  - first:
+      213: 7057866720053244951
+    second: MGGB - Solid Snake Sprites_1
+  - first:
+      213: -2204920460048269638
+    second: MGGB - Solid Snake Sprites_2
+  - first:
+      213: -2818315045314267165
+    second: MGGB - Solid Snake Sprites_3
+  - first:
+      213: -429555138047192530
+    second: MGGB - Solid Snake Sprites_4
+  - first:
+      213: -2453237345295143442
+    second: MGGB - Solid Snake Sprites_5
+  - first:
+      213: -175280225861420076
+    second: MGGB - Solid Snake Sprites_6
+  - first:
+      213: -2788236014905945451
+    second: MGGB - Solid Snake Sprites_7
+  - first:
+      213: 4844205006452293185
+    second: MGGB - Solid Snake Sprites_8
+  - first:
+      213: -7940741459000482972
+    second: MGGB - Solid Snake Sprites_9
+  - first:
+      213: -8207890232999522045
+    second: MGGB - Solid Snake Sprites_10
+  - first:
+      213: 4306931975045395224
+    second: MGGB - Solid Snake Sprites_11
+  - first:
+      213: 4495691453774086179
+    second: MGGB - Solid Snake Sprites_12
+  - first:
+      213: 7699142645741319902
+    second: MGGB - Solid Snake Sprites_13
+  - first:
+      213: 5307414276263935271
+    second: MGGB - Solid Snake Sprites_14
+  - first:
+      213: -7235379524008802981
+    second: MGGB - Solid Snake Sprites_15
+  - first:
+      213: 1613732930274899281
+    second: MGGB - Solid Snake Sprites_16
+  - first:
+      213: 4399605544302054025
+    second: MGGB - Solid Snake Sprites_17
+  - first:
+      213: -2448332123696818788
+    second: MGGB - Solid Snake Sprites_18
+  - first:
+      213: -3598168882364346066
+    second: MGGB - Solid Snake Sprites_19
+  - first:
+      213: -3063226330782616347
+    second: MGGB - Solid Snake Sprites_20
+  - first:
+      213: 5986079255047855607
+    second: MGGB - Solid Snake Sprites_21
+  - first:
+      213: -6980875169548800419
+    second: MGGB - Solid Snake Sprites_22
+  - first:
+      213: 4658180805814399396
+    second: MGGB - Solid Snake Sprites_23
+  - first:
+      213: 7413623283685963054
+    second: MGGB - Solid Snake Sprites_24
+  - first:
+      213: 6831793838815705032
+    second: MGGB - Solid Snake Sprites_25
+  - first:
+      213: 3336819448819041254
+    second: MGGB - Solid Snake Sprites_26
+  - first:
+      213: 8851879579371952712
+    second: MGGB - Solid Snake Sprites_27
+  - first:
+      213: 3728116811712197308
+    second: MGGB - Solid Snake Sprites_28
+  - first:
+      213: -462598255486556759
+    second: MGGB - Solid Snake Sprites_29
+  - first:
+      213: -1584678270409678204
+    second: MGGB - Solid Snake Sprites_30
+  - first:
+      213: -5630495752206388068
+    second: MGGB - Solid Snake Sprites_31
+  - first:
+      213: 2397603268792218572
+    second: MGGB - Solid Snake Sprites_32
+  - first:
+      213: -8385207099570151140
+    second: MGGB - Solid Snake Sprites_33
+  - first:
+      213: -5875506921304501491
+    second: MGGB - Solid Snake Sprites_34
+  - first:
+      213: 867147332237772396
+    second: MGGB - Solid Snake Sprites_35
+  - first:
+      213: -3193371044778383026
+    second: MGGB - Solid Snake Sprites_36
+  - first:
+      213: -5549430651709907280
+    second: MGGB - Solid Snake Sprites_37
+  - first:
+      213: -1589851585626163689
+    second: MGGB - Solid Snake Sprites_38
+  - first:
+      213: 4548794261865180536
+    second: MGGB - Solid Snake Sprites_39
+  - first:
+      213: 1089810560783646648
+    second: MGGB - Solid Snake Sprites_40
+  - first:
+      213: -8909342364983844576
+    second: MGGB - Solid Snake Sprites_41
+  - first:
+      213: -909253149778975287
+    second: MGGB - Solid Snake Sprites_42
+  - first:
+      213: 7290517244709133126
+    second: MGGB - Solid Snake Sprites_43
+  - first:
+      213: -3992916004394836054
+    second: MGGB - Solid Snake Sprites_44
+  - first:
+      213: -5726995389596925108
+    second: MGGB - Solid Snake Sprites_45
+  - first:
+      213: 1707534015212519510
+    second: MGGB - Solid Snake Sprites_46
+  - first:
+      213: 6583074675998948799
+    second: MGGB - Solid Snake Sprites_47
+  - first:
+      213: 2428859318130134248
+    second: MGGB - Solid Snake Sprites_48
+  - first:
+      213: -4987983125420778057
+    second: MGGB - Solid Snake Sprites_49
+  - first:
+      213: 1688018619562620134
+    second: MGGB - Solid Snake Sprites_50
+  - first:
+      213: -3923443774703295987
+    second: MGGB - Solid Snake Sprites_51
+  - first:
+      213: 2935515965139624946
+    second: MGGB - Solid Snake Sprites_52
+  - first:
+      213: -7864102538870842537
+    second: MGGB - Solid Snake Sprites_53
+  - first:
+      213: -4530237716880675363
+    second: MGGB - Solid Snake Sprites_54
+  - first:
+      213: 4784635990511116464
+    second: MGGB - Solid Snake Sprites_55
+  - first:
+      213: 2889350359995312106
+    second: MGGB - Solid Snake Sprites_56
+  - first:
+      213: -5091547289217828006
+    second: MGGB - Solid Snake Sprites_57
+  - first:
+      213: -5372969053530697271
+    second: MGGB - Solid Snake Sprites_58
+  - first:
+      213: 1483170163438048700
+    second: MGGB - Solid Snake Sprites_59
+  - first:
+      213: 8968914925692798309
+    second: MGGB - Solid Snake Sprites_60
+  - first:
+      213: -522983780906054791
+    second: MGGB - Solid Snake Sprites_61
+  - first:
+      213: -3921267696544751403
+    second: MGGB - Solid Snake Sprites_62
+  - first:
+      213: -4161175120714582348
+    second: MGGB - Solid Snake Sprites_63
+  - first:
+      213: -1280592167375635485
+    second: MGGB - Solid Snake Sprites_64
+  - first:
+      213: -2672647087413749587
+    second: MGGB - Solid Snake Sprites_65
+  - first:
+      213: 6972861082159075275
+    second: MGGB - Solid Snake Sprites_66
+  - first:
+      213: 291895947666609805
+    second: MGGB - Solid Snake Sprites_67
+  - first:
+      213: -5153409603375362377
+    second: MGGB - Solid Snake Sprites_68
+  - first:
+      213: 2827236588779203342
+    second: MGGB - Solid Snake Sprites_69
+  - first:
+      213: -3122580114444134505
+    second: MGGB - Solid Snake Sprites_70
+  - first:
+      213: -2270408319904763986
+    second: MGGB - Solid Snake Sprites_71
+  - first:
+      213: 7463194508045137563
+    second: MGGB - Solid Snake Sprites_72
+  - first:
+      213: -2687355424724986467
+    second: MGGB - Solid Snake Sprites_73
+  - first:
+      213: 6232216028607778386
+    second: MGGB - Solid Snake Sprites_74
+  - first:
+      213: -7347216443922692409
+    second: MGGB - Solid Snake Sprites_75
+  - first:
+      213: 6723529568705894503
+    second: MGGB - Solid Snake Sprites_76
+  - first:
+      213: -3396162648273501258
+    second: MGGB - Solid Snake Sprites_77
+  - first:
+      213: -8242339247655506281
+    second: MGGB - Solid Snake Sprites_78
+  - first:
+      213: -5621701409946950888
+    second: MGGB - Solid Snake Sprites_79
+  - first:
+      213: -5728165383474462589
+    second: MGGB - Solid Snake Sprites_80
+  - first:
+      213: 4035103793817171799
+    second: MGGB - Solid Snake Sprites_81
+  - first:
+      213: 2705221144720292903
+    second: MGGB - Solid Snake Sprites_82
+  - first:
+      213: 6745151489590739336
+    second: MGGB - Solid Snake Sprites_83
+  - first:
+      213: 964815319592674213
+    second: MGGB - Solid Snake Sprites_84
+  - first:
+      213: -6332032244651711203
+    second: MGGB - Solid Snake Sprites_85
+  - first:
+      213: -3484658894287385641
+    second: MGGB - Solid Snake Sprites_86
+  - first:
+      213: -7746930781578936114
+    second: MGGB - Solid Snake Sprites_87
+  - first:
+      213: 4149267986878369886
+    second: MGGB - Solid Snake Sprites_88
+  - first:
+      213: -3713438980284653096
+    second: MGGB - Solid Snake Sprites_89
+  - first:
+      213: -3811138752694384150
+    second: MGGB - Solid Snake Sprites_90
+  - first:
+      213: -3918596842963734820
+    second: MGGB - Solid Snake Sprites_91
+  - first:
+      213: 7840561911420220696
+    second: MGGB - Solid Snake Sprites_92
+  - first:
+      213: -2514877299096378165
+    second: MGGB - Solid Snake Sprites_93
+  - first:
+      213: -6490768418055090101
+    second: MGGB - Solid Snake Sprites_94
+  - first:
+      213: 7992916744168850013
+    second: MGGB - Solid Snake Sprites_95
+  - first:
+      213: -1098060514907460129
+    second: MGGB - Solid Snake Sprites_96
+  - first:
+      213: 4583838606903629204
+    second: MGGB - Solid Snake Sprites_97
+  - first:
+      213: -7337400032444726941
+    second: MGGB - Solid Snake Sprites_98
+  - first:
+      213: -4909039509475581052
+    second: MGGB - Solid Snake Sprites_99
+  - first:
+      213: 7823272553042203063
+    second: MGGB - Solid Snake Sprites_100
+  - first:
+      213: -710960267283510488
+    second: MGGB - Solid Snake Sprites_101
+  - first:
+      213: 5533251856045337580
+    second: MGGB - Solid Snake Sprites_102
+  - first:
+      213: -692839224573614736
+    second: MGGB - Solid Snake Sprites_103
+  - first:
+      213: 2541943292692716350
+    second: MGGB - Solid Snake Sprites_104
+  - first:
+      213: 8098505459516654128
+    second: MGGB - Solid Snake Sprites_105
+  - first:
+      213: 7185786683169201199
+    second: MGGB - Solid Snake Sprites_106
+  - first:
+      213: 4568573077500582400
+    second: MGGB - Solid Snake Sprites_107
+  - first:
+      213: -3942715592307684182
+    second: MGGB - Solid Snake Sprites_108
+  - first:
+      213: -8583762653426491516
+    second: MGGB - Solid Snake Sprites_109
+  - first:
+      213: -7173837318868187912
+    second: MGGB - Solid Snake Sprites_110
+  - first:
+      213: 8732822597635722864
+    second: Down
+  - first:
+      213: 6246207409563169778
+    second: MGGB - Solid Snake Sprites_112
+  - first:
+      213: -2003663702822948105
+    second: MGGB - Solid Snake Sprites_113
+  - first:
+      213: -5799570591343285995
+    second: MGGB - Solid Snake Sprites_114
+  - first:
+      213: -4660862476416572440
+    second: MGGB - Solid Snake Sprites_115
+  - first:
+      213: 7423115348336492910
+    second: MGGB - Solid Snake Sprites_116
+  - first:
+      213: -3891577030973768630
+    second: MGGB - Solid Snake Sprites_117
+  - first:
+      213: 3585405329503496276
+    second: MGGB - Solid Snake Sprites_118
+  - first:
+      213: -3187596930192315792
+    second: MGGB - Solid Snake Sprites_119
+  - first:
+      213: 6265208605037482912
+    second: MGGB - Solid Snake Sprites_120
+  - first:
+      213: -545614469459264101
+    second: MGGB - Solid Snake Sprites_121
+  - first:
+      213: 5274450557868270318
+    second: MGGB - Solid Snake Sprites_122
+  - first:
+      213: -1467831175632847692
+    second: MGGB - Solid Snake Sprites_123
+  - first:
+      213: 5859506609119567365
+    second: MGGB - Solid Snake Sprites_124
+  - first:
+      213: -948468143097628958
+    second: MGGB - Solid Snake Sprites_125
+  - first:
+      213: 4024139852535636877
+    second: MGGB - Solid Snake Sprites_126
+  - first:
+      213: 2787384053199235483
+    second: MGGB - Solid Snake Sprites_127
+  - first:
+      213: 7750551620096893079
+    second: MGGB - Solid Snake Sprites_128
+  - first:
+      213: 7459701469080183935
+    second: MGGB - Solid Snake Sprites_129
+  - first:
+      213: 8362044965232505595
+    second: MGGB - Solid Snake Sprites_130
+  - first:
+      213: -1846337737141837822
+    second: MGGB - Solid Snake Sprites_131
+  - first:
+      213: -4676167701992401815
+    second: MGGB - Solid Snake Sprites_132
+  - first:
+      213: 8111266363972673329
+    second: MGGB - Solid Snake Sprites_133
+  - first:
+      213: 8063882600818707561
+    second: MGGB - Solid Snake Sprites_134
+  - first:
+      213: -3146155459067551008
+    second: MGGB - Solid Snake Sprites_135
+  - first:
+      213: 5184214596189025029
+    second: MGGB - Solid Snake Sprites_136
+  - first:
+      213: 2600366004828687224
+    second: MGGB - Solid Snake Sprites_137
+  - first:
+      213: -680344236502916598
+    second: MGGB - Solid Snake Sprites_138
+  - first:
+      213: -1520161497414372032
+    second: MGGB - Solid Snake Sprites_139
+  - first:
+      213: 3698151860185664774
+    second: MGGB - Solid Snake Sprites_140
+  - first:
+      213: -7100093898304774791
+    second: MGGB - Solid Snake Sprites_141
+  - first:
+      213: -779269665788872826
+    second: MGGB - Solid Snake Sprites_142
+  - first:
+      213: -5601146115469697428
+    second: MGGB - Solid Snake Sprites_143
+  - first:
+      213: -4519117901439362431
+    second: MGGB - Solid Snake Sprites_144
+  - first:
+      213: -3789723966270164253
+    second: MGGB - Solid Snake Sprites_145
+  - first:
+      213: 8986680134320000408
+    second: MGGB - Solid Snake Sprites_146
+  - first:
+      213: 1548048980235440860
+    second: MGGB - Solid Snake Sprites_147
+  - first:
+      213: 1629147867974803621
+    second: MGGB - Solid Snake Sprites_148
+  - first:
+      213: 6367920906299958350
+    second: MGGB - Solid Snake Sprites_149
+  - first:
+      213: 4781825040888716934
+    second: MGGB - Solid Snake Sprites_150
+  - first:
+      213: 2950478302469546877
+    second: MGGB - Solid Snake Sprites_151
+  - first:
+      213: -1396847116229730830
+    second: MGGB - Solid Snake Sprites_152
+  - first:
+      213: -4004110497368542364
+    second: MGGB - Solid Snake Sprites_153
+  - first:
+      213: 4447426795566481142
+    second: MGGB - Solid Snake Sprites_154
+  - first:
+      213: 6168372817280584338
+    second: MGGB - Solid Snake Sprites_155
+  - first:
+      213: -1696046267444048184
+    second: MGGB - Solid Snake Sprites_156
+  - first:
+      213: -6333225727714242178
+    second: MGGB - Solid Snake Sprites_157
+  - first:
+      213: 841336774489118233
+    second: MGGB - Solid Snake Sprites_158
+  - first:
+      213: -2256600486790106054
+    second: MGGB - Solid Snake Sprites_159
+  - first:
+      213: 3296860996529512276
+    second: MGGB - Solid Snake Sprites_160
+  - first:
+      213: -2699903786230703553
+    second: MGGB - Solid Snake Sprites_161
+  - first:
+      213: 8291970056719932698
+    second: MGGB - Solid Snake Sprites_162
+  - first:
+      213: 2043669474292604477
+    second: MGGB - Solid Snake Sprites_163
+  - first:
+      213: 6620789580055902374
+    second: MGGB - Solid Snake Sprites_164
+  - first:
+      213: 6210343220360355410
+    second: MGGB - Solid Snake Sprites_165
+  - first:
+      213: -6256713408260388104
+    second: MGGB - Solid Snake Sprites_166
+  - first:
+      213: -2927077910539436236
+    second: MGGB - Solid Snake Sprites_167
+  - first:
+      213: 6948754086258799533
+    second: MGGB - Solid Snake Sprites_168
+  - first:
+      213: 1406740935461260183
+    second: MGGB - Solid Snake Sprites_169
+  - first:
+      213: 8970827995269248012
+    second: MGGB - Solid Snake Sprites_170
+  - first:
+      213: -7861024694287948320
+    second: MGGB - Solid Snake Sprites_171
+  - first:
+      213: -6532289483580450856
+    second: MGGB - Solid Snake Sprites_172
+  - first:
+      213: -847404115108127852
+    second: MGGB - Solid Snake Sprites_173
+  - first:
+      213: 7035786219882672909
+    second: MGGB - Solid Snake Sprites_174
+  - first:
+      213: 1959977006875340758
+    second: MGGB - Solid Snake Sprites_175
+  - first:
+      213: 4822556116547200059
+    second: MGGB - Solid Snake Sprites_176
+  - first:
+      213: 7643321171600727378
+    second: MGGB - Solid Snake Sprites_177
+  - first:
+      213: -2958966249850193301
+    second: MGGB - Solid Snake Sprites_178
+  - first:
+      213: -1763879722615193984
+    second: MGGB - Solid Snake Sprites_179
+  - first:
+      213: 3101870447605106037
+    second: MGGB - Solid Snake Sprites_180
+  - first:
+      213: 336960213007487849
+    second: MGGB - Solid Snake Sprites_181
+  - first:
+      213: 2021533889179542525
+    second: MGGB - Solid Snake Sprites_182
+  - first:
+      213: -7806408846247531785
+    second: MGGB - Solid Snake Sprites_183
+  - first:
+      213: -2103569616016864756
+    second: MGGB - Solid Snake Sprites_184
+  - first:
+      213: 4655516844729468190
+    second: MGGB - Solid Snake Sprites_185
+  - first:
+      213: -6255596094050485287
+    second: MGGB - Solid Snake Sprites_186
+  - first:
+      213: -8739442754281093712
+    second: MGGB - Solid Snake Sprites_187
+  - first:
+      213: -4769033679162178104
+    second: MGGB - Solid Snake Sprites_188
+  - first:
+      213: 8265172412763790177
+    second: MGGB - Solid Snake Sprites_189
+  - first:
+      213: -8617027555003980853
+    second: MGGB - Solid Snake Sprites_190
+  - first:
+      213: -3942620248156757555
+    second: MGGB - Solid Snake Sprites_191
+  - first:
+      213: -8255383059916977759
+    second: MGGB - Solid Snake Sprites_192
+  - first:
+      213: -4850698943892633180
+    second: MGGB - Solid Snake Sprites_193
+  - first:
+      213: 4276128146177558335
+    second: MGGB - Solid Snake Sprites_194
+  - first:
+      213: -3454790183434133906
+    second: MGGB - Solid Snake Sprites_195
+  - first:
+      213: -5760736197409011348
+    second: MGGB - Solid Snake Sprites_196
+  - first:
+      213: 9084091972735785194
+    second: MGGB - Solid Snake Sprites_197
+  - first:
+      213: -4619587099116904897
+    second: MGGB - Solid Snake Sprites_198
+  - first:
+      213: -7562739081028157813
+    second: MGGB - Solid Snake Sprites_199
+  - first:
+      213: 4652181253386256170
+    second: MGGB - Solid Snake Sprites_200
+  - first:
+      213: 7994759058303120025
+    second: MGGB - Solid Snake Sprites_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 794
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db31613097419df0800000000000000
+      internalID: -175280225861420076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 794
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592949dfd123e49d0800000000000000
+      internalID: -2788236014905945451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 764
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ef1c4a9c21a3340800000000000000
+      internalID: 4844205006452293185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 764
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4632f0307b1dcc190800000000000000
+      internalID: -7940741459000482972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 764
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3015aa20257b71e80800000000000000
+      internalID: -8207890232999522045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 764
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8133a5cefcb45cb30800000000000000
+      internalID: 4306931975045395224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 764
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320c6f9de87e36e30800000000000000
+      internalID: 4495691453774086179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 764
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6f87ac179d8da60800000000000000
+      internalID: 7699142645741319902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 764
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d7c841a29b7a940800000000000000
+      internalID: 5307414276263935271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 764
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55025858a4c69b90800000000000000
+      internalID: -7235379524008802981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 738
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155b267dc81256610800000000000000
+      internalID: 1613732930274899281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 738
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a86f3bee98e0d30800000000000000
+      internalID: 4399605544302054025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 710
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c959fd2c7e6c50ed0800000000000000
+      internalID: -2448332123696818788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 709
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e211fc4277cb01ec0800000000000000
+      internalID: -3598168882364346066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 708
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4341fb1eb3d75d0800000000000000
+      internalID: -3063226330782616347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 709
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd567aed53d21350800000000000000
+      internalID: 5986079255047855607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 710
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ee2b10503fe1f90800000000000000
+      internalID: -6980875169548800419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 709
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a13c1643ce25a040800000000000000
+      internalID: 4658180805814399396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 708
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25baa2f81b72e660800000000000000
+      internalID: 7413623283685963054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 709
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7ff4dcc486fce50800000000000000
+      internalID: 6831793838815705032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 710
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e349760c93ce4e20800000000000000
+      internalID: 3336819448819041254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 682
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb27443ec7eecb330800000000000000
+      internalID: 3728116811712197308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 686
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5220c66558499f0800000000000000
+      internalID: -462598255486556759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 683
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48263f05287120ae0800000000000000
+      internalID: -1584678270409678204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 684
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94746ce1f57cd1b0800000000000000
+      internalID: -5630495752206388068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 684
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3fcac487ff54120800000000000000
+      internalID: 2397603268792218572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 681
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11a906d192c1ab80800000000000000
+      internalID: -8385207099570151140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 652
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03db48b591067ea0800000000000000
+      internalID: -5875506921304501491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 627
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4967f734fddea3d0800000000000000
+      internalID: -3193371044778383026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 626
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be9a2379367cf2b0800000000000000
+      internalID: -5549430651709907280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 625
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71639210866bfe9e0800000000000000
+      internalID: -1589851585626163689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 625
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d2fc6d740902f30800000000000000
+      internalID: 4548794261865180536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 627
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf7af35ee8cf1f00800000000000000
+      internalID: 1089810560783646648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 628
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021acc0a258ab5480800000000000000
+      internalID: -8909342364983844576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 627
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5e484e31fa163f0800000000000000
+      internalID: -909253149778975287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 627
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b5fb7aece1d2560800000000000000
+      internalID: 7290517244709133126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 605
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafd214ac005698c0800000000000000
+      internalID: -3992916004394836054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 604
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4386cc3900a580b0800000000000000
+      internalID: -5726995389596925108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 575
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65083a2d32162b710800000000000000
+      internalID: 1707534015212519510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 575
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd79c80a87cb5b50800000000000000
+      internalID: 6583074675998948799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 575
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec4b826eaa05b120800000000000000
+      internalID: 2428859318130134248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 575
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdd6af56cf17cab0800000000000000
+      internalID: -4987983125420778057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 575
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e47641bdfb0d6710800000000000000
+      internalID: 1688018619562620134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 576
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02a7989ca02d89c0800000000000000
+      internalID: -3923443774703295987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 551
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3a2ae973c0db820800000000000000
+      internalID: 2935515965139624946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 553
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b1b5d18681dd290800000000000000
+      internalID: -7864102538870842537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 554
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd20497ccc5121c0800000000000000
+      internalID: -4530237716880675363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 554
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0e6f15511766240800000000000000
+      internalID: 4784635990511116464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 552
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7ea2f08d8091820800000000000000
+      internalID: 2889350359995312106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 551
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b711577b03759b0800000000000000
+      internalID: -5091547289217828006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 522
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5de2dc767459410800000000000000
+      internalID: 1483170163438048700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 522
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5654e960b9cf77c70800000000000000
+      internalID: 8968914925692798309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 496
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bcdcba50dfdb8f0800000000000000
+      internalID: -522983780906054791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 496
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d06c364ecbd499c0800000000000000
+      internalID: -3921267696544751403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 496
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b63d9946498046c0800000000000000
+      internalID: -4161175120714582348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 496
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb7d69653c6a3ee0800000000000000
+      internalID: -1280592167375635485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 496
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da898b062a9d8ead0800000000000000
+      internalID: -2672647087413749587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfcc3ed53494c060800000000000000
+      internalID: 6972861082159075275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 496
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d865b0061d50d0400800000000000000
+      internalID: 291895947666609805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 496
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be89b805496b78b0800000000000000
+      internalID: -5153409603375362377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 476
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797dbd71eed5aa4d0800000000000000
+      internalID: -3122580114444134505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 476
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf2cf489a3ed70e0800000000000000
+      internalID: -2270408319904763986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 456
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b963da50dd7929760800000000000000
+      internalID: 7463194508045137563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 456
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d955c0cba7894bad0800000000000000
+      internalID: -2687355424724986467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 456
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e89a455774d7650800000000000000
+      internalID: 6232216028607778386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 456
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6441c4291790a90800000000000000
+      internalID: -7347216443922692409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 456
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768dc8b1586ce4d50800000000000000
+      internalID: 6723529568705894503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 456
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b34536a0186ed0d0800000000000000
+      internalID: -3396162648273501258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 456
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79eab31cf145d9d80800000000000000
+      internalID: -8242339247655506281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 456
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813acca4a54bbf1b0800000000000000
+      internalID: -5621701409946950888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 428
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380c05fcee77180b0800000000000000
+      internalID: -5728165383474462589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 431
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757bd4685819ff730800000000000000
+      internalID: 4035103793817171799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 430
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cbde95c40ea8520800000000000000
+      internalID: 2705221144720292903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 432
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881c04dda879b9d50800000000000000
+      internalID: 6745151489590739336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 433
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a32d2edb66b36d00800000000000000
+      internalID: 964815319592674213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 433
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d152737d83a1028a0800000000000000
+      internalID: -6332032244651711203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 400
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db489ab23104afc0800000000000000
+      internalID: -3484658894287385641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 376
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5019c31049259930800000000000000
+      internalID: 4149267986878369886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 376
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d16b0d0ce6377cc0800000000000000
+      internalID: -3713438980284653096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 377
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae90de72f7d1c1bc0800000000000000
+      internalID: -3811138752694384150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 378
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeed25dee85e99c0800000000000000
+      internalID: -3918596842963734820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 377
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815f8a174854fcc60800000000000000
+      internalID: 7840561911420220696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 376
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4aaadbb6c591dd0800000000000000
+      internalID: -2514877299096378165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 376
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40908a63882ce5a0800000000000000
+      internalID: -6490768418055090101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 376
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52c4773e6b8cee60800000000000000
+      internalID: 7992916744168850013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 355
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddee0b87c7e2c0f0800000000000000
+      internalID: -1098060514907460129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 353
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49556304de01d9f30800000000000000
+      internalID: 4583838606903629204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 328
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3614133bb815c2a90800000000000000
+      internalID: -7337400032444726941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 330
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483a95943969fdbb0800000000000000
+      internalID: -4909039509475581052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 330
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1d42100f8d19c60800000000000000
+      internalID: 7823272553042203063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 330
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b462b57692226f0800000000000000
+      internalID: -710960267283510488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 329
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb6a542f3f0acc40800000000000000
+      internalID: 5533251856045337580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 328
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07525d4656a8266f0800000000000000
+      internalID: -692839224573614736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 302
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bd228f4fbc64320800000000000000
+      internalID: 2541943292692716350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 301
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0324d06cecba36070800000000000000
+      internalID: 8098505459516654128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 303
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c580a9aea09b360800000000000000
+      internalID: 7185786683169201199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 305
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ad5d63205d66f30800000000000000
+      internalID: 4568573077500582400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 303
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac4b16ee09a849c0800000000000000
+      internalID: -3942715592307684182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 303
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fdf3e685950e880800000000000000
+      internalID: -8583762653426491516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Down
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 274
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ec49252e7313970800000000000000
+      internalID: 8732822597635722864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 274
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3fc609b8cfea650800000000000000
+      internalID: 6246207409563169778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 245
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5196e2d4649c38fa0800000000000000
+      internalID: -5799570591343285995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_115
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 245
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e32e32a54a415fb0800000000000000
+      internalID: -4660862476416572440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_116
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 245
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61c8587414340760800000000000000
+      internalID: 7423115348336492910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_117
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 245
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c3dbc0f475ef9c0800000000000000
+      internalID: -3891577030973768630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_118
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 245
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45829d0a62be1c130800000000000000
+      internalID: 3585405329503496276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_119
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 245
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ae2c80b7163c3d0800000000000000
+      internalID: -3187596930192315792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_122
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 245
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2691f46dc923940800000000000000
+      internalID: 5274450557868270318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_123
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 245
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcf82a925731abe0800000000000000
+      internalID: -1467831175632847692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_125
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 225
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e634e1cf3d56d2f0800000000000000
+      internalID: -948468143097628958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_126
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 225
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8321e400ed98d730800000000000000
+      internalID: 4024139852535636877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_128
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 199
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790243162ad7f8b60800000000000000
+      internalID: 7750551620096893079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_129
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 199
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74ebf286fe268760800000000000000
+      internalID: 7459701469080183935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_130
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 197
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2f6848793fb0470800000000000000
+      internalID: 8362044965232505595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_131
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 199
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20023424c9d7066e0800000000000000
+      internalID: -1846337737141837822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_132
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 199
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964969c104aea1fb0800000000000000
+      internalID: -4676167701992401815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_133
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 199
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f5a2f58c1019070800000000000000
+      internalID: 8111266363972673329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_134
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 198
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c804c408aa8ef60800000000000000
+      internalID: 8063882600818707561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_135
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 199
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e26f1e674c9654d0800000000000000
+      internalID: -3146155459067551008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_136
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 199
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503fd3545b702f740800000000000000
+      internalID: 5184214596189025029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_138
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 175
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a026242858eee86f0800000000000000
+      internalID: -680344236502916598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_140
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 174
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d01dfe589725330800000000000000
+      internalID: 3698151860185664774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_141
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 177
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d10a7a736677d90800000000000000
+      internalID: -7100093898304774791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_142
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 177
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687ba622e5a7f25f0800000000000000
+      internalID: -779269665788872826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_143
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e9e5cb84bb442b0800000000000000
+      internalID: -5601146115469697428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_161
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 146
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a9cf5afc3088ad0800000000000000
+      internalID: -2699903786230703553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_166
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 136
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa473ffd40bb29a0800000000000000
+      internalID: -6256713408260388104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_167
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 137
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f7760162ee067d0800000000000000
+      internalID: -2927077910539436236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MGGB - Solid Snake Sprites_168
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 137
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3fffe760fee6060800000000000000
+      internalID: 6948754086258799533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

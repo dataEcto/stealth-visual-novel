@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: 9afe32ec5da70254eac9b3269278044c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3894023842154322453
+    second: Bushy Sprites_0
+  - first:
+      213: 1257233368771554179
+    second: Bushy Sprites_1
+  - first:
+      213: -6154455834624061987
+    second: Bushy Sprites_2
+  - first:
+      213: 2864060843558334630
+    second: Bushy Sprites_3
+  - first:
+      213: 865322017842207528
+    second: Bushy Sprites_4
+  - first:
+      213: 4998852179546426598
+    second: Bushy Sprites_5
+  - first:
+      213: -4426006770763220262
+    second: Bushy Sprites_6
+  - first:
+      213: 4831690425468495397
+    second: Bushy Sprites_7
+  - first:
+      213: 349781959223824957
+    second: Bushy Sprites_8
+  - first:
+      213: -2271587528339471354
+    second: Bushy Sprites_9
+  - first:
+      213: -9130811196568991861
+    second: Bushy Sprites_10
+  - first:
+      213: -8595441401428088615
+    second: Bushy Sprites_11
+  - first:
+      213: 9008157204034350601
+    second: Bushy Sprites_12
+  - first:
+      213: -150513644868875716
+    second: Bushy Sprites_13
+  - first:
+      213: 6976215244337625926
+    second: Bushy Sprites_14
+  - first:
+      213: 7141932343068116774
+    second: Bushy Sprites_15
+  - first:
+      213: -7144700243825052126
+    second: Bushy Sprites_16
+  - first:
+      213: -344951793478592180
+    second: Bushy Sprites_17
+  - first:
+      213: -666168910765949172
+    second: Bushy Sprites_18
+  - first:
+      213: -4451170241761522488
+    second: Bushy Sprites_19
+  - first:
+      213: -6088998589380517263
+    second: Bushy Sprites_20
+  - first:
+      213: 72390957059257851
+    second: Bushy Sprites_21
+  - first:
+      213: -6789537070931073536
+    second: Bushy Sprites_22
+  - first:
+      213: -6960342650034749033
+    second: Bushy Sprites_23
+  - first:
+      213: 8873959839865659247
+    second: Bushy Sprites_24
+  - first:
+      213: 572258723795819296
+    second: Bushy Sprites_25
+  - first:
+      213: -4084264774962500598
+    second: Bushy Sprites_26
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bushy Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af76b677b69d634a81a02f5251822b3
+      internalID: -3894023842154322453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8385f4bc962554d98f628196c640cc
+      internalID: 1257233368771554179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4580a6b791244654b891f3b7c436ea42
+      internalID: -6154455834624061987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 3
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8e1f224f86d194b8fc390decfda92c
+      internalID: 2864060843558334630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 4
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf0ae05c369f1247ba979f07c62a581
+      internalID: 865322017842207528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 3
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8534b20be2b80044b74147fced03e17
+      internalID: 4998852179546426598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 3
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a413a52362480db4f9bf6bf1884062b0
+      internalID: -4426006770763220262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f70670df74a8af48bef99b1e0a70d41
+      internalID: 4831690425468495397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 3
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c560ab7d4abe70c4289f52e351f885d5
+      internalID: 349781959223824957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 4
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86265a1812c2d99458ad766a372a704e
+      internalID: -2271587528339471354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 3
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4de517736def745ac99ad525a4f983
+      internalID: -9130811196568991861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bc15947f1b75c4fba9498d5bdab583
+      internalID: -8595441401428088615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 3
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eddd68fcebb194091377fab7feb8cc
+      internalID: 9008157204034350601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33931b63fb4a7e49859f4b4688668e2
+      internalID: -150513644868875716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 3
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c4ca8e03ab78544bb12eaddfb1cf0c
+      internalID: 6976215244337625926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 4
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011c7c29f3382054b97921c17cbe16e3
+      internalID: 7141932343068116774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3894fd8a6e824414d96d426ecf029895
+      internalID: -7144700243825052126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 3
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39de9e328597e7c4db63eabfd14d3365
+      internalID: -344951793478592180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 4
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d4c837feb48ea469da22f588ed159c
+      internalID: -666168910765949172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 3
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eebaeaa0841be4459a2ecee71eb1ba7
+      internalID: -4451170241761522488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015ed304ef16c074cab2e5bc727199e3
+      internalID: -6088998589380517263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 5
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a28aef1fa964145bd5fe762541707e
+      internalID: 72390957059257851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 3
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e8f3d7c6fcdc9419a0ede67ee75293
+      internalID: -6789537070931073536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 3
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f1911c0ac28f647a0a5c87ab3711d9
+      internalID: -6960342650034749033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 3
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555eb1ea995f81746862c5ebcf964279
+      internalID: 8873959839865659247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 4
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895b8bad07a7d9c47b78c0c44f666238
+      internalID: 572258723795819296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushy Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 4
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bc208b0d0420b469bf3803655ac778
+      internalID: -4084264774962500598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

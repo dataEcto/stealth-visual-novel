@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: c4bad1bca04d50f4981ac1c502ae23cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1855612729723324193
+    second: travistest_0
+  - first:
+      213: 4133094988481118209
+    second: travistest_1
+  - first:
+      213: 8572463400426027892
+    second: travistest_2
+  - first:
+      213: -3239503990658789226
+    second: travistest_3
+  - first:
+      213: -6111321967909884887
+    second: travistest_4
+  - first:
+      213: 8858627352602551365
+    second: travistest_5
+  - first:
+      213: 4437327468508369044
+    second: travistest_6
+  - first:
+      213: 8364826701074471955
+    second: travistest_7
+  - first:
+      213: -3732858288460375876
+    second: travistest_8
+  - first:
+      213: -4890431119355444452
+    second: travistest_9
+  - first:
+      213: -3702027691279249657
+    second: travistest_10
+  - first:
+      213: -5130207770680713136
+    second: travistest_11
+  - first:
+      213: -8955933359069242892
+    second: travistest_12
+  - first:
+      213: -7695389631716590937
+    second: travistest_13
+  - first:
+      213: -5987439190006231073
+    second: travistest_14
+  - first:
+      213: -7561333915687012334
+    second: travistest_15
+  - first:
+      213: 1848103567578013959
+    second: travistest_16
+  - first:
+      213: -6883686474834328282
+    second: travistest_17
+  - first:
+      213: -1372044714019958948
+    second: travistest_18
+  - first:
+      213: 4704216823618764650
+    second: travistest_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: travistest_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 727
+        width: 421
+        height: 669
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8f524cd0a8f36e0800000000000000
+      internalID: -1855612729723324193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: travistest_1
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 727
+        width: 415
+        height: 667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1004d537ef3bb5930800000000000000
+      internalID: 4133094988481118209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: travistest_2
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 727
+        width: 421
+        height: 669
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b3e683b0287f670800000000000000
+      internalID: 8572463400426027892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: travistest_3
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 727
+        width: 392
+        height: 667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690925cb848fa03d0800000000000000
+      internalID: -3239503990658789226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: travistest_4
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 727
+        width: 326
+        height: 651
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ca0b2ac09303ba0800000000000000
+      internalID: -6111321967909884887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: travistest_5
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 727
+        width: 384
+        height: 666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5442f6564aa20fa70800000000000000
+      internalID: 8858627352602551365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: travistest_6
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 727
+        width: 319
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490568892dd849d30800000000000000
+      internalID: 4437327468508369044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: travistest_7
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 723
+        width: 396
+        height: 671
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c1f3dd095d51470800000000000000
+      internalID: 8364826701074471955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: travistest_8
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 727
+        width: 465
+        height: 661
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb852770a29323cc0800000000000000
+      internalID: -3732858288460375876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: travistest_9
+      rect:
+        serializedVersion: 2
+        x: 3694
+        y: 727
+        width: 690
+        height: 667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c138d4cbec2b12cb0800000000000000
+      internalID: -4890431119355444452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: travistest_10
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 727
+        width: 333
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f04a0dd61cf9cc0800000000000000
+      internalID: -3702027691279249657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: travistest_11
+      rect:
+        serializedVersion: 2
+        x: 4749
+        y: 727
+        width: 413
+        height: 664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050a0aca637ddc8b0800000000000000
+      internalID: -5130207770680713136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: travistest_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4
+        width: 408
+        height: 653
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f95b9c7f0226b380800000000000000
+      internalID: -8955933359069242892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: travistest_13
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 4
+        width: 417
+        height: 661
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aafe41e6eb743590800000000000000
+      internalID: -7695389631716590937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: travistest_14
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 4
+        width: 374
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf0d6d87c758eca0800000000000000
+      internalID: -5987439190006231073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: travistest_15
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 4
+        width: 402
+        height: 659
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218bc578ddeb01790800000000000000
+      internalID: -7561333915687012334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: travistest_16
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 4
+        width: 400
+        height: 657
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701ae9d2768c5a910800000000000000
+      internalID: 1848103567578013959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: travistest_17
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 4
+        width: 432
+        height: 657
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625c65a5f9b3870a0800000000000000
+      internalID: -6883686474834328282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: travistest_18
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 4
+        width: 1108
+        height: 717
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f43ec1a9485fce0800000000000000
+      internalID: -1372044714019958948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: travistest_19
+      rect:
+        serializedVersion: 2
+        x: 4362
+        y: 4
+        width: 495
+        height: 663
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f763ee64cb84140800000000000000
+      internalID: 4704216823618764650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

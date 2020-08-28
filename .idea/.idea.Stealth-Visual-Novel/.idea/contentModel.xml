@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Game Center Admin\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Game Center Admin\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Stealth-Visual-Novel.1974273715.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Game Center Admin\Desktop\Stealth-Visual-Novel" t="IncludeRecursive">
+    <e p="C:\Users\Game Center Admin\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Stealth-Visual-Novel.1174067512.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Game Center Admin\Desktop\Stealth-Game-Git\Stealth-Visual-Novel" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -1088,15 +1088,27 @@
           <e p="AI.cs" t="Include" />
           <e p="AIDecisonFOV.cs" t="Include" />
           <e p="Attack.cs" t="Include" />
+          <e p="AudioManager.cs" t="Include" />
           <e p="ConnectedWaypoint.cs" t="Include" />
+          <e p="DoorController.cs" t="Include" />
           <e p="FieldOfView.cs" t="Include" />
           <e p="FieldOfViewEditor.cs" t="Include" />
           <e p="GameEnvironment.cs" t="Include" />
+          <e p="GameEvents.cs" t="Include" />
           <e p="Idle.cs" t="Include" />
+          <e p="InteractiveObject.cs" t="Include" />
+          <e p="MainMenuScript.cs" t="Include" />
+          <e p="MenuButtonsScript.cs" t="Include" />
           <e p="Patrol.cs" t="Include" />
+          <e p="PlayerInteract.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
           <e p="Pursue.cs" t="Include" />
           <e p="RandomPatrol.cs" t="Include" />
+          <e p="RoomTransistions.cs" t="Include" />
+          <e p="SettingsMenuScript.cs" t="Include" />
+          <e p="Sound.cs" t="Include" />
           <e p="State.cs" t="Include" />
+          <e p="TriggerAreaScript.cs" t="Include" />
           <e p="Waypoint.cs" t="Include" />
         </e>
         <e p="TopDownEngine" t="Include">
